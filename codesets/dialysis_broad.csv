@@ -1,0 +1,47 @@
+concept_id,concept_name,concept_code,vocabulary_id,chronic
+2213577,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substantial re",90947,CPT4,0
+2213601,"Unlisted dialysis procedure, inpatient or outpatient",90999,CPT4,0
+2213572,Hemodialysis procedure with single evaluation by a physician or other qualified health care professional,90935,CPT4,0
+2213576,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional",90945,CPT4,0
+2720773,"Injection, epoetin alfa, 100 units (for esrd on dialysis)",Q4081,HCPCS,1
+2213573,Hemodialysis procedure requiring repeated evaluation(s) with or without substantial revision of dialysis prescription,90937,CPT4,0
+2615761,"Catheter, hemodialysis/peritoneal, long-term",C1750,HCPCS,0
+2002282,Hemodialysis,39.95,ICD9Proc,0
+2213595,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age",90968,CPT4,1
+2213596,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age",90969,CPT4,1
+2213592,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",90965,CPT4,1
+2213591,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",90964,CPT4,1
+2615763,"Catheter, hemodialysis/peritoneal, short-term",C1752,HCPCS,0
+2213594,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age",90967,CPT4,1
+2002176,Venous catheterization for renal dialysis,38.95,ICD9Proc,0
+2003564,Peritoneal dialysis,54.98,ICD9Proc,0
+2109463,"Insertion of tunneled intraperitoneal catheter for dialysis, open",49421,CPT4,0
+2718324,"Injection, darbepoetin alfa, 1 microgram (for esrd on dialysis)",J0882,HCPCS,1
+2617399,"END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS TWO TO ELEVEN YEARS OF AGE TO INCLUDE MONITORING FOR ADEQUACY OF NUTRITION, ASSESSMENT OF GROWTH AND DEVELOPMENT, AND COUNSELING OF PARENTS",G0321,HCPCS,1
+2313999,"Duplex scan of hemodialysis access (including arterial inflow, body of access and venous outflow)",93990,CPT4,0
+2213590,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",90963,CPT4,1
+2617400,"END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS TWELVE TO NINETEEN YEARS OF AGE TO INCLUDE MONITORING FOR ADEQUACY OF NUTRITION, ASSESSMENT OF GROWTH AND DEVELOPMENT, AND COUNSELING OF PARENTS",G0322,HCPCS,1
+2617398,"END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS UNDER TWO YEARS OF AGE TO INCLUDE MONITORING FOR ADEQUACY OF NUTRITION, ASSESSMENT OF GROWTH AND DEVELOPMENT, AND COUNSELING OF PARENTS",G0320,HCPCS,1
+2213598,"Dialysis training, patient, including helper where applicable, any mode, completed course",90989,CPT4,1
+2213597,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older",90970,CPT4,1
+40756908,"Introduction of needle and/or catheter, arteriovenous shunt created for dialysis (graft/fistula); initial access with complete radiological evaluation of dialysis access, including fluoroscopy, image documentation and report (includes access of shunt, inj",36147,CPT4,1
+2617440,"Vessel mapping of vessels for hemodialysis access (services for preoperative vessel mapping prior to creation of hemodialysis access using an autogenous hemodialysis conduit, including arterial inflow and venous outflow)",G0365,HCPCS,1
+2213599,"Dialysis training, patient, including helper where applicable, any mode, course not completed, per training session",90993,CPT4,1
+2002189,Arteriovenostomy for renal dialysis,39.27,ICD9Proc,1
+42736574,"Introduction of needle or intracatheter; arteriovenous shunt created for dialysis (cannula, fistula, or graft)",36145,CPT4,1
+40756844,"Insertion of tunneled intraperitoneal catheter (eg, dialysis, intraperitoneal chemotherapy instillation, management of ascites), complete procedure, including imaging guidance, catheter placement, contrast injection when performed, and radiological superv",49418,CPT4,0
+2108276,"Insertion of cannula for hemodialysis, other purpose (separate procedure); vein to vein",36800,CPT4,0
+2614998,"Blood tubing, arterial or venous, for hemodialysis, each",A4750,HCPCS,0
+2002208,Revision of arteriovenous shunt for renal dialysis,39.42,ICD9Proc,1
+2213593,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older",90966,CPT4,1
+40757115,"Introduction of needle and/or catheter, arteriovenous shunt created for dialysis (graft/fistula); additional access for therapeutic intervention (List separately in addition to code for primary procedure)",36148,CPT4,1
+2108277,"Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external (Scribner type)",36810,CPT4,1
+40756855,"Angiography, arteriovenous shunt (eg, dialysis patient fistula/graft), complete evaluation of dialysis access, including fluoroscopy, image documentation and report (includes injections of contrast and all necessary imaging from the arterial anastomosis a",75791,CPT4,1
+2617462,"TRANSLUMINAL BALLOON ANGIOPLASTY, PERCUTANEOUS; FOR MAINTENANCE OF HEMODIALYSIS ACCESS, ARTERIOVENOUS FISTULA OR GRAFT; VENOUS",G0393,HCPCS,1
+2002209,Removal of arteriovenous shunt for renal dialysis,39.43,ICD9Proc,1
+2617401,END STAGE RENAL DISEASE (ESRD) RELATED SERVICES FOR HOME DIALYSIS PATIENTS PER FULL MONTH; FOR PATIENTS TWENTY YEARS OF AGE AND OLDER,G0323,HCPCS,1
+2718326,"Injection, epoetin alfa, 1000 units (for esrd on dialysis)",J0886,HCPCS,1
+2108278,"Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external revision, or closure",36815,CPT4,1
+2617342,Unscheduled or emergency dialysis treatment for an esrd patient in a hospital outpatient department that is not certified as an esrd facility,G0257,HCPCS,1
+2617461,"TRANSLUMINAL BALLOON ANGIOPLASTY, PERCUTANEOUS; FOR MAINTENANCE OF HEMODIALYSIS ACCESS, ARTERIOVENOUS FISTULA OR GRAFT; ARTERIAL",G0392,HCPCS,1
+42628575,"Introduction of needle(s) and/or catheter(s), dialysis circuit, with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomosis",36901,CPT4,1

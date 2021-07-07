@@ -1,0 +1,20 @@
+cpt_or_loinc,concept_name,vocabulary_id,creat_mismap
+82043,"Albumin; urine (eg, microalbumin), quantitative",CPT4,1
+82232,Beta-2 microglobulin,CPT4,1
+82310,Calcium; total,CPT4,1
+82384,Catecholamines; fractionated,CPT4,1
+82482,Cholinesterase; RBC,CPT4,1
+82507,Citrate,CPT4,1
+82523,"Collagen cross links, any method",CPT4,1
+82525,Copper,CPT4,1
+82530,Cortisol; free,CPT4,1
+83497,"Hydroxyindolacetic acid, 5-(HIAA)",CPT4,1
+83835,Metanephrines,CPT4,1
+83945,Oxalate,CPT4,1
+84156,"Protein, total, except by refractometry; urine",CPT4,1
+84166,"Protein; electrophoretic fractionation and quantitation, other fluids with concentration (eg, urine, CSF)",CPT4,1
+84450,Transferase; aspartate amino (AST) (SGOT),CPT4,1
+84560,Uric acid; other source,CPT4,1
+84585,"Vanillylmandelic acid (VMA), urine",CPT4,1
+84630,Zinc,CPT4,1
+11155-9,Cortisol/Creatinine [Mass Ratio] in Urine,LOINC,1

@@ -1,0 +1,7 @@
+concept_id,concept_code,concept_name,vocabulary_id
+38004455,10,Gastroenterology,Medicare Specialty
+44777723,301,Gastroenterology,HES Specialty
+44777764,251,Paediatric Gastroenterology,HES Specialty
+38003869,207RG0100X,"Allopathic & Osteopathic Physicians, Internal Medicine, Gastroenterology",NUCC
+38003952,2080P0206X,"Allopathic & Osteopathic Physicians, Pediatrics, Pediatric Gastroenterology",NUCC
+45756810,OMOP4822029,Pediatric Gastroenterology,ABMS

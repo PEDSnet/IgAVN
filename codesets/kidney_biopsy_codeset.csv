@@ -1,0 +1,10 @@
+concept_id,concept_code,concept_name,vocabulary_id,sv_search_req
+2003588,55.23,Closed [percutaneous] [needle] biopsy of kidney,ICD9Proc,0
+2003589,55.24,Open biopsy of kidney,ICD9Proc,0
+2109566,50200,"Renal biopsy; percutaneous, by trocar or needle",CPT4,0
+2109567,50205,Renal biopsy; by surgical exposure of kidney,CPT4,0
+2211783,76942,"Ultrasonic guidance for needle placement (eg, biopsy, aspiration, injection, localization device), imaging supervision and interpretation",CPT4,1
+2211801,77012,"Computed tomography guidance for needle placement (eg, biopsy, aspiration, injection, localization device), radiological supervision and interpretation",CPT4,1
+2211804,77021,"Magnetic resonance imaging guidance for needle placement (eg, for biopsy, needle aspiration, injection, or placement of localization device) radiological supervision and interpretation",CPT4,1
+35608187,769246001,Closed renal biopsy,SNOMED,0
+36717689,719033000,Evaluation of kidney biopsy specimen,SNOMED,0

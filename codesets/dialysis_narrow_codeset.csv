@@ -1,0 +1,24 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id
+2213577,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substantial re",90947,CPT4
+2213576,"Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional",90945,CPT4
+2213598,"Dialysis training, patient, including helper where applicable, any mode, completed course",90989,CPT4
+2213599,"Dialysis training, patient, including helper where applicable, any mode, course not completed, per training session",90993,CPT4
+2313999,"Duplex scan of hemodialysis access (including arterial inflow, body of access and venous outflow)",93990,CPT4
+2213596,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age",90969,CPT4
+2213597,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older",90970,CPT4
+2213595,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age",90968,CPT4
+2213594,"End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age",90967,CPT4
+2213592,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",90965,CPT4
+2213593,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older",90966,CPT4
+2213591,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",90964,CPT4
+2213590,"End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",90963,CPT4
+2213573,Hemodialysis procedure requiring repeated evaluation(s) with or without substantial revision of dialysis prescription,90937,CPT4
+2213572,Hemodialysis procedure with single evaluation by a physician or other qualified health care professional,90935,CPT4
+2108277,"Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external (Scribner type)",36810,CPT4
+2108276,"Insertion of cannula for hemodialysis, other purpose (separate procedure); vein to vein",36800,CPT4
+2109463,"Insertion of tunneled intraperitoneal catheter for dialysis, open",49421,CPT4
+40756908,"Introduction of needle and/or catheter, arteriovenous shunt created for dialysis (graft/fistula); initial access with complete radiological evaluation of dialysis access, including fluoroscopy, image documentation and report (includes access of shunt, inj",36147,CPT4
+42736574,"Introduction of needle or intracatheter; arteriovenous shunt created for dialysis (cannula, fistula, or graft)",36145,CPT4
+42628575,"Introduction of needle(s) and/or catheter(s), dialysis circuit, with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomosis ",36901,CPT4
+42628646,"Transluminal balloon angioplasty (except dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary to perform the angioplasty within the same vein; initial vein",37248,CPT4
+2213601,"Unlisted dialysis procedure, inpatient or outpatient",90999,CPT4

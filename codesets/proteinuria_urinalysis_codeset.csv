@@ -1,0 +1,6 @@
+concept_id,concept_name,concept_code,vocabulary_id
+3005897,Protein [Mass/volume] in Urine by Test strip,5804-0,LOINC
+3014051,Protein [Presence] in Urine by Test strip,20454-5,LOINC
+3029872,Protein [Mass/volume] in Urine by Automated test strip,50561-0,LOINC
+40760845,Protein [Presence] in Urine by Automated test strip,57735-3,LOINC
+3037185,Protein [Presence] in Urine,2887-8,LOINC

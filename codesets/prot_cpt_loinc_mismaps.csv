@@ -1,0 +1,58 @@
+cpt_or_loinc,concept_name,vocabulary_id,prot_mismap,prot_mismap_to_quant,prot_mismap_to_qual
+81003,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, without microscopy",CPT4,0,1,0
+81001,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy",CPT4,0,1,0
+81002,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, without microscopy",CPT4,0,1,0
+5804-0,Protein [Mass/volume] in Urine by Test strip,LOINC,0,1,0
+20454-5,Protein [Presence] in Urine by Test strip,LOINC,0,1,0
+50561-0,Protein [Mass/volume] in Urine by Automated test strip,LOINC,0,1,0
+57735-3,Protein [Presence] in Urine by Automated test strip,LOINC,0,1,0
+2887-8,Protein [Presence] in Urine,LOINC,0,1,0
+2888-6,Protein [Mass/volume] in Urine,LOINC,0,0,1
+2889-4,Protein [Mass/time] in 24 hour Urine,LOINC,0,0,1
+84166,"Protein; electrophoretic fractionation and quantitation, other fluids with concentration (eg, urine, CSF)",CPT4,0,0,1
+21482-5,Protein [Mass/volume] in 24 hour Urine,LOINC,0,0,1
+35663-4,Protein [Mass/volume] in Urine collected for unspecified duration,LOINC,0,0,1
+2885-2,Protein [Mass/volume] in Serum or Plasma,LOINC,1,1,1
+80053,"Comprehensive metabolic panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Phosphatase, alkaline (84075) Pot",CPT4,1,1,1
+80076,"Hepatic function panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Bilirubin, direct (82248) Phosphatase, alkaline (84075) Protein, total (84155) Transferase, alanine amino (ALT) (SGPT) (84460) Transferase, aspartate am",CPT4,1,1,1
+82040,"Albumin; serum, plasma or whole blood",CPT4,1,1,1
+82570,Creatinine; other source,CPT4,1,1,1
+84165,"Protein; electrophoretic fractionation and quantitation, serum",CPT4,1,1,1
+80061,"Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct measurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)",CPT4,1,1,1
+86140,C-reactive protein,CPT4,1,1,1
+82247,Bilirubin; total,CPT4,1,1,1
+84075,"Phosphatase, alkaline",CPT4,1,1,1
+84450,Transferase; aspartate amino (AST) (SGOT),CPT4,1,1,1
+85025,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count) and automated differential WBC count",CPT4,1,1,1
+83036,Hemoglobin; glycosylated (A1C),CPT4,1,1,1
+84443,Thyroid stimulating hormone (TSH),CPT4,1,1,1
+85652,"Sedimentation rate, erythrocyte; automated",CPT4,1,1,1
+86431,Rheumatoid factor; quantitative,CPT4,1,1,1
+80048,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)",CPT4,1,1,1
+82947,"Glucose; quantitative, blood (except reagent strip)",CPT4,1,1,1
+82310,Calcium; total,CPT4,1,1,1
+82435,Chloride; blood,CPT4,1,1,1
+82565,Creatinine; blood,CPT4,1,1,1
+84132,"Potassium; serum, plasma or whole blood",CPT4,1,1,1
+86038,Antinuclear antibodies (ANA),CPT4,1,1,1
+82248,Bilirubin; direct,CPT4,1,1,1
+82977,"Glutamyltransferase, gamma (GGT)",CPT4,1,1,1
+83540,Iron,CPT4,1,1,1
+83615,"Lactate dehydrogenase (LD), (LDH)",CPT4,1,1,1
+84100,Phosphorus inorganic (phosphate),CPT4,1,1,1
+86060,Antistreptolysin 0; titer,CPT4,1,1,1
+84295,"Sodium; serum, plasma or whole blood",CPT4,1,1,1
+84520,Urea nitrogen; quantitative,CPT4,1,1,1
+84311,"Spectrophotometry, analyte not elsewhere specified",CPT4,1,1,1
+82164,Angiotensin I - converting enzyme (ACE),CPT4,1,1,1
+82465,"Cholesterol, serum or whole blood, total",CPT4,1,1,1
+82784,"Gammaglobulin (immunoglobulin); IgA, IgD, IgG, IgM, each",CPT4,1,1,1
+84134,Prealbumin,CPT4,1,1,1
+84478,Triglycerides,CPT4,1,1,1
+84550,Uric acid; blood,CPT4,1,1,1
+86147,"Cardiolipin (phospholipid) antibody, each Ig class",CPT4,1,1,1
+86308,Heterophile antibodies; screening,CPT4,1,1,1
+86334,Immunofixation electrophoresis; serum,CPT4,1,1,1
+82507,Citrate,CPT4,1,1,1
+26801-1,Protein [Mass/time] in 12 hour Urine,LOINC,0,0,1
+27298-9,Protein [Units/volume] in Urine,LOINC,0,0,1

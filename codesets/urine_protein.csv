@@ -1,0 +1,7 @@
+concept_id,concept_code,concept_name,vocabulary_id
+3033812,26801-1,Protein [Mass/time] in 12 hour Urine,LOINC
+3020876,2889-4,Protein [Mass/time] in 24 hour Urine,LOINC
+3011705,21482-5,Protein [Mass/volume] in 24 hour Urine,LOINC
+3037121,2888-6,Protein [Mass/volume] in Urine,LOINC
+3035511,35663-4,Protein [Mass/volume] in Urine collected for unspecified duration,LOINC
+3017756,27298-9,Protein [Units/volume] in Urine,LOINC

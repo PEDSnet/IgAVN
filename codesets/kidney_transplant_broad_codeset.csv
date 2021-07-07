@@ -1,0 +1,79 @@
+﻿concept_id,concept_name,concept_code,vocabulary_id,flag
+4126131,Very mild acute rejection of renal transplant,236573002,SNOMED,transplant
+44809340,Aneurysm of artery of transplanted kidney,8.53E+14,SNOMED,transplant
+4309006,Kidney transplant failure and rejection,213150003,SNOMED,transplant
+44808127,Rupture of vein of transplanted kidney,8.48E+14,SNOMED,transplant
+4127553,Chronic rejection of renal transplant - grade III,236581001,SNOMED,transplant
+2774518,"Transplantation of Right Kidney, Syngeneic, Open Approach",0TY00Z1,ICD10PCS,transplant
+2774521,"Transplantation of Left Kidney, Syngeneic, Open Approach",0TY10Z1,ICD10PCS,transplant
+36256075,Arterial stenosis of transplanted kidney,10049279,MedDRA,transplant
+4322471,Transplant of kidney,70536003,SNOMED,transplant
+44811351,Thrombosis of artery of transplanted kidney,8.64E+14,SNOMED,transplant
+2109582,"Backbench reconstruction of cadaver or living donor renal allograft prior to transplantation; venous anastomosis, each",50327,CPT4,transplant
+2109589,"Renal autotransplantation, reimplantation of kidney",50380,CPT4,transplant
+2890060,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Left @ Open",0TY10,ICD10PCS,transplant
+42539502,Transplanted kidney present,737295003,SNOMED,transplant
+4138908,Delayed renal graft function,426136000,SNOMED,transplant
+4172368,Unexplained episode of renal transplant dysfunction,277010001,SNOMED,transplant
+2003626,Other kidney transplantation,55.69,ICD9Proc,transplant
+4128369,Renal transplant rejection,236570004,SNOMED,transplant
+2109586,"Renal allotransplantation, implantation of graft; without recipient nephrectomy",50360,CPT4,transplant
+45768672,Recurrent post-transplant renal disease,707148007,SNOMED,transplant
+44808129,Stenosis of vein of transplanted kidney,8.48E+14,SNOMED,transplant
+4128371,Acute rejection of renal transplant,236574008,SNOMED,transplant
+4127551,Acute rejection of renal transplant - grade III,236577001,SNOMED,transplant
+2827873,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Left @ Open @ No Device",0TY10Z,ICD10PCS,transplant
+2109588,Removal of transplanted renal allograft,50370,CPT4,transplant
+4032298,Acute-on-chronic rejection of renal transplant,236582008,SNOMED,transplant
+4032295,Hyperacute rejection of renal transplant,236571000,SNOMED,transplant
+4128373,Transplant glomerulopathy - early form,236588007,SNOMED,transplant
+2877118,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Right",0TY0,ICD10PCS,transplant
+44784262,Awaiting transplantation of kidney,698306007,SNOMED,transplant
+4234042,Biopsy of transplanted kidney using ultrasound guidance,440512006,SNOMED,transplant
+4126132,Perfusion injury of renal transplant,236584009,SNOMED,transplant
+42872397,Patient awaiting renal transplant,1.72E+12,SNOMED,transplant
+36256077,Primary kidney transplant nonfunction,10064680,MedDRA,transplant
+4126133,Transplant glomerulopathy - late form,236589004,SNOMED,transplant
+4127554,Failed renal transplant,236583003,SNOMED,transplant
+35623146,Allotransplantation of left kidney,765478004,SNOMED,transplant
+36717743,Transplantation of kidney and pancreas,6.47E+12,SNOMED,transplant
+36256074,Renal graft function delayed,10048747,MedDRA,transplant
+4127550,Acute rejection of renal transplant - grade I,236575009,SNOMED,transplant
+2109585,Recipient nephrectomy (separate procedure),50340,CPT4,transplant
+44809014,Urological complication of renal transplant,8.44E+14,SNOMED,transplant
+4082531,US scan of transplant kidney,241484009,SNOMED,transplant
+2774519,"Transplantation of Right Kidney, Zooplastic, Open Approach",0TY00Z2,ICD10PCS,transplant
+4032296,Acute rejection of renal transplant - grade II,236576005,SNOMED,transplant
+44809336,Aneurysm of vein of transplanted kidney,8.53E+14,SNOMED,transplant
+45888790,Renal Transplantation Procedures,1008098,CPT4,transplant
+2792053,Ultrasonography of Kidney Transplant,BT49ZZZ,ICD10PCS,transplant
+2799812,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Right @ Open",0TY00,ICD10PCS,transplant
+4128372,Chronic rejection of renal transplant,236578006,SNOMED,transplant
+4032297,Chronic rejection of renal transplant - grade 1,236579003,SNOMED,transplant
+4059356,History of renal transplant,161665007,SNOMED,transplant
+44811353,Thrombosis of vein of transplanted kidney,8.64E+14,SNOMED,transplant
+37017533,Transplant renal artery stenosis,713825007,SNOMED,transplant
+2109587,"Renal allotransplantation, implantation of graft; with recipient nephrectomy",50365,CPT4,transplant
+44809172,Vascular complication of renal transplant,8.45E+14,SNOMED,transplant
+4032294,Primary non-function of renal transplant,236569000,SNOMED,transplant
+2833286,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Left",0TY1,ICD10PCS,transplant
+4128370,Accelerated rejection of renal transplant,236572007,SNOMED,transplant
+2109580,"Backbench standard preparation of cadaver donor renal allograft prior to transplantation, including dissection and removal of perinephric fat, diaphragmatic and retroperitoneal attachments, excision of adrenal gland, and preparation of ureter(s), renal ve",50323,CPT4,transplant
+36211758,Complications of transplanted kidney,10010185,MedDRA,transplant
+44808126,Rupture of artery of transplanted kidney,8.48E+14,SNOMED,transplant
+4127552,Chronic rejection of renal transplant - grade II,236580000,SNOMED,transplant
+199991,Disorder of transplanted kidney,58797008,SNOMED,transplant
+35623147,Allotransplantation of right kidney,765479007,SNOMED,transplant
+45887599,Backbench reconstruction of cadaver or living donor renal allograft prior to transplantation,1008104,CPT4,transplant
+2774522,"Transplantation of Left Kidney, Zooplastic, Open Approach",0TY10Z2,ICD10PCS,transplant
+2774520,"Transplantation of Left Kidney, Allogeneic, Open Approach",0TY10Z0,ICD10PCS,transplant
+44511721,Other specified transplantation of kidney,M01.8,OPCS4,transplant
+4172369,Pre-existing disease in renal transplant,277011002,SNOMED,transplant
+4032423,Transplant glomerulopathy,236587002,SNOMED,transplant
+2774517,"Transplantation of Right Kidney, Allogeneic, Open Approach",0TY00Z0,ICD10PCS,transplant
+45887600,"Renal allotransplantation, implantation of graft",1008109,CPT4,transplant
+2109583,"Backbench reconstruction of cadaver or living donor renal allograft prior to transplantation; arterial anastomosis, each",50328,CPT4,transplant
+36256076,Kidney graft dysfunction,10051366,MedDRA,transplant
+4126137,Perirenal and periureteric post-transplant lymphocele,236614007,SNOMED,transplant
+2877119,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Right @ Open @ No Device",0TY00Z,ICD10PCS,transplant
+2774516,"Urinary System, Transplantation",0TY,ICD10PCS,transplant

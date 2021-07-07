@@ -1,0 +1,6 @@
+concept_id,concept_code,concept_name,vocabulary_id
+44777791,410,Rheumatology,HES Specialty
+45756818,OMOP4822021,Pediatric Rheumatology,ABMS
+38004491,66,Rheumatology,Medicare Specialty
+38003957,2080P0216X,"Allopathic & Osteopathic Physicians, Pediatrics, Pediatric Rheumatology",NUCC
+38003882,207RR0500X,"Allopathic & Osteopathic Physicians, Internal Medicine, Rheumatology",NUCC

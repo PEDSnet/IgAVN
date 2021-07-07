@@ -1,0 +1,7 @@
+concept_id,concept_name,concept_code,vocabulary_id
+2211783,"Ultrasonic guidance for needle placement (eg, biopsy, aspiration, injection, localization device), imaging supervision and interpretation",76942,CPT4
+2211798,"Fluoroscopic guidance for needle placement (eg, biopsy, aspiration, injection, localization device) (List separately in addition to code for primary procedure)",77002,CPT4
+2211801,"Computed tomography guidance for needle placement (eg, biopsy, aspiration, injection, localization device), radiological supervision and interpretation",77012,CPT4
+2211804,"Magnetic resonance imaging guidance for needle placement (eg, for biopsy, needle aspiration, injection, or placement of localization device) radiological supervision and interpretation",77021,CPT4
+42737556,"Fluoroscopic guidance for needle placement (eg, biopsy, aspiration, injection, localization device)",76003,CPT4
+42740105,"Magnetic resonance guidance for needle placement (eg, for biopsy, needle aspiration, injection, or placement of localization device) radiological supervision and interpretation",76393,CPT4

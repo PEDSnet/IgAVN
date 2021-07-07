@@ -1,0 +1,175 @@
+concept_id,concept_name,concept_code,vocabulary_id
+2003588,Closed [percutaneous] [needle] biopsy of kidney,55.23,ICD9Proc
+2003589,Open biopsy of kidney,55.24,ICD9Proc
+2003591,Local excision or destruction of lesion or tissue of kidney,55.3,ICD9Proc
+2003607,Other local destruction or excision of renal lesion or tissue,55.39,ICD9Proc
+2003916,Biopsy of perirenal or perivesical tissue,59.21,ICD9Proc
+2003938,Excision of perirenal or perivesical tissue,59.91,ICD9Proc
+2109566,"Renal biopsy; percutaneous, by trocar or needle",50200,CPT4
+2109567,Renal biopsy; by surgical exposure of kidney,50205,CPT4
+2109576,Excision or unroofing of cyst(s) of kidney,50280,CPT4
+2109623,"Renal endoscopy through established nephrostomy or pyelostomy, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with biopsy",50555,CPT4
+2109624,"Renal endoscopy through established nephrostomy or pyelostomy, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with fulguration and/or incision, with or without biopsy",50557,CPT4
+2109630,"Renal endoscopy through nephrotomy or pyelotomy, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with biopsy",50574,CPT4
+2109632,"Renal endoscopy through nephrotomy or pyelotomy, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with fulguration and/or incision, with or without biopsy",50576,CPT4
+2109769,"Cystourethroscopy, with ureteral catheterization, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with brush biopsy of ureter and/or renal pelvis",52007,CPT4
+2109818,"Cystourethroscopy, with ureteroscopy and/or pyeloscopy; with biopsy and/or fulguration of ureteral or renal pelvic lesion",52354,CPT4
+2773680,"Excision of Right Kidney, Open Approach, Diagnostic",0TB00ZX,ICD10PCS
+2773681,"Excision of Right Kidney, Open Approach",0TB00ZZ,ICD10PCS
+2773682,"Excision of Right Kidney, Percutaneous Approach, Diagnostic",0TB03ZX,ICD10PCS
+2773683,"Excision of Right Kidney, Percutaneous Approach",0TB03ZZ,ICD10PCS
+2773684,"Excision of Right Kidney, Percutaneous Endoscopic Approach, Diagnostic",0TB04ZX,ICD10PCS
+2773685,"Excision of Right Kidney, Percutaneous Endoscopic Approach",0TB04ZZ,ICD10PCS
+2773686,"Excision of Right Kidney, Via Natural or Artificial Opening, Diagnostic",0TB07ZX,ICD10PCS
+2773687,"Excision of Right Kidney, Via Natural or Artificial Opening",0TB07ZZ,ICD10PCS
+2773688,"Excision of Right Kidney, Via Natural or Artificial Opening Endoscopic, Diagnostic",0TB08ZX,ICD10PCS
+2773689,"Excision of Right Kidney, Via Natural or Artificial Opening Endoscopic",0TB08ZZ,ICD10PCS
+2773690,"Excision of Left Kidney, Open Approach, Diagnostic",0TB10ZX,ICD10PCS
+2773691,"Excision of Left Kidney, Open Approach",0TB10ZZ,ICD10PCS
+2773692,"Excision of Left Kidney, Percutaneous Approach, Diagnostic",0TB13ZX,ICD10PCS
+2773693,"Excision of Left Kidney, Percutaneous Approach",0TB13ZZ,ICD10PCS
+2773694,"Excision of Left Kidney, Percutaneous Endoscopic Approach, Diagnostic",0TB14ZX,ICD10PCS
+2773695,"Excision of Left Kidney, Percutaneous Endoscopic Approach",0TB14ZZ,ICD10PCS
+2773696,"Excision of Left Kidney, Via Natural or Artificial Opening, Diagnostic",0TB17ZX,ICD10PCS
+2773697,"Excision of Left Kidney, Via Natural or Artificial Opening",0TB17ZZ,ICD10PCS
+2773698,"Excision of Left Kidney, Via Natural or Artificial Opening Endoscopic, Diagnostic",0TB18ZX,ICD10PCS
+2773699,"Excision of Left Kidney, Via Natural or Artificial Opening Endoscopic",0TB18ZZ,ICD10PCS
+2773700,"Excision of Right Kidney Pelvis, Open Approach, Diagnostic",0TB30ZX,ICD10PCS
+2773702,"Excision of Right Kidney Pelvis, Percutaneous Approach, Diagnostic",0TB33ZX,ICD10PCS
+2773704,"Excision of Right Kidney Pelvis, Percutaneous Endoscopic Approach, Diagnostic",0TB34ZX,ICD10PCS
+2773706,"Excision of Right Kidney Pelvis, Via Natural or Artificial Opening, Diagnostic",0TB37ZX,ICD10PCS
+2773708,"Excision of Right Kidney Pelvis, Via Natural or Artificial Opening Endoscopic, Diagnostic",0TB38ZX,ICD10PCS
+2773710,"Excision of Left Kidney Pelvis, Open Approach, Diagnostic",0TB40ZX,ICD10PCS
+2773712,"Excision of Left Kidney Pelvis, Percutaneous Approach, Diagnostic",0TB43ZX,ICD10PCS
+2773714,"Excision of Left Kidney Pelvis, Percutaneous Endoscopic Approach, Diagnostic",0TB44ZX,ICD10PCS
+2773716,"Excision of Left Kidney Pelvis, Via Natural or Artificial Opening, Diagnostic",0TB47ZX,ICD10PCS
+2773718,"Excision of Left Kidney Pelvis, Via Natural or Artificial Opening Endoscopic, Diagnostic",0TB48ZX,ICD10PCS
+2801902,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Via Natural or Artificial Opening Endoscopic @ No Device",0TB08Z,ICD10PCS
+2801903,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Percutaneous",0TB13,ICD10PCS
+2815418,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Open",0TB00,ICD10PCS
+2815419,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left",0TB1,ICD10PCS
+2815420,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Percutaneous @ No Device",0TB13Z,ICD10PCS
+2819493,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Via Natural or Artificial Opening Endoscopic",0TB18,ICD10PCS
+2824556,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right",0TB0,ICD10PCS
+2824557,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Open",0TB10,ICD10PCS
+2832795,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Percutaneous",0TB03,ICD10PCS
+2832796,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Percutaneous Endoscopic @ No Device",0TB14Z,ICD10PCS
+2837828,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Via Natural or Artificial Opening",0TB17,ICD10PCS
+2844833,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Percutaneous @ No Device",0TB03Z,ICD10PCS
+2852509,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Via Natural or Artificial Opening Endoscopic",0TB08,ICD10PCS
+2871431,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Open @ No Device",0TB00Z,ICD10PCS
+2871432,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Percutaneous Endoscopic",0TB04,ICD10PCS
+2876770,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Via Natural or Artificial Opening @ No Device",0TB07Z,ICD10PCS
+2876771,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Via Natural or Artificial Opening @ No Device",0TB17Z,ICD10PCS
+2884547,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Via Natural or Artificial Opening",0TB07,ICD10PCS
+2884548,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Open @ No Device",0TB10Z,ICD10PCS
+2892259,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Percutaneous Endoscopic",0TB14,ICD10PCS
+2892260,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Left @ Via Natural or Artificial Opening Endoscopic @ No Device",0TB18Z,ICD10PCS
+2898108,"Medical and Surgical @ Urinary System @ Excision @ Kidney, Right @ Percutaneous Endoscopic @ No Device",0TB04Z,ICD10PCS
+4004924,Core needle biopsy of kidney,10106002,SNOMED
+4019785,Nephroscopy and biopsy of renal lesion,175962002,SNOMED
+4019787,Percutaneous needle biopsy of renal lesion,175967008,SNOMED
+4021364,Wedge biopsy of kidney,116029000,SNOMED
+4022478,Open excision of renal lesion,175923006,SNOMED
+4023554,Incisional biopsy of kidney,116243001,SNOMED
+4027426,Kidney excision,108022006,SNOMED
+4090043,Excision of cyst of kidney,252053007,SNOMED
+4117052,Kidney - local excision,287730002,SNOMED
+4145223,Diagnostic endoscopic retrograde examination of kidney and biopsy of lesion of kidney,426606005,SNOMED
+4164499,Surgical biopsy of kidney,274358005,SNOMED
+4167263,Percutaneous renal needle biopsy,274326000,SNOMED
+4167885,US scan and biopsy of kidney,419174006,SNOMED
+4170382,Fine needle biopsy of kidney,48426002,SNOMED
+4173506,Needle biopsy of kidney,275155009,SNOMED
+4176648,Nephrectomy with excision of perirenal tissue,361249003,SNOMED
+4188184,Excision of lesion of perirenal tissue,46647003,SNOMED
+4199132,Excision of lesion of kidney with partial nephrectomy,51870000,SNOMED
+4217034,Kidney biopsy,7246002,SNOMED
+4221238,Open biopsy of kidney,40134000,SNOMED
+4230425,CT guided biopsy of kidney,438820000,SNOMED
+4231192,Biopsy of kidney using ultrasound guidance,438813007,SNOMED
+4233713,Local excision of renal parenchymal tumor,360789000,SNOMED
+4234042,Biopsy of transplanted kidney using ultrasound guidance,440512006,SNOMED
+4288997,Excision of lesion of kidney,69762004,SNOMED
+4292273,Biopsy of perirenal tissue,3748003,SNOMED
+4329382,Percutaneous transjugular biopsy of kidney using fluoroscopic guidance,431662003,SNOMED
+4340648,Excision of ureter to lower moiety of duplex kidney,236161009,SNOMED
+4341370,Excision of ureter to upper moiety of duplex kidney,236160005,SNOMED
+35608187,Closed renal biopsy,769246001,SNOMED
+35623140,Excision of left kidney,765472003,SNOMED
+35623141,Excision of right kidney,765473008,SNOMED
+35916693,"Kidney, Renal Pelvis, and Ureter@Excisional biopsy","Kidney, Renal Pelvis, and Ureter@1290@27",NAACCR
+36315760,Biopsy kidney,10004782,MedDRA
+36315761,Biopsy kidney abnormal,10004783,MedDRA
+36315762,Biopsy kidney normal,10004784,MedDRA
+36365859,Kidney biopsy,10023398,MedDRA
+36365860,Renal biopsy,10038382,MedDRA
+36365861,Ultrasound guided renal biopsy,10045420,MedDRA
+36365863,Renal biopsy abnormal,10038383,MedDRA
+36365865,Renal biopsy normal,10038384,MedDRA
+36713210,CT guided percutaneous biopsy of kidney,407981000119107,SNOMED
+36713211,Fluoroscopy guided percutaneous biopsy of kidney,408451000119106,SNOMED
+36713301,Laparoscopic biopsy of transplanted kidney,6501000179109,SNOMED
+36717546,Excision of neoplasm of kidney,722274008,SNOMED
+36717689,Evaluation of kidney biopsy specimen,719033000,SNOMED
+37108717,Ultrasonography guided biopsy of left kidney,1141000087106,SNOMED
+37108719,Ultrasonography guided biopsy of right kidney,1151000087109,SNOMED
+37108819,CT guided biopsy of left kidney,1391000087101,SNOMED
+37108822,CT guided biopsy of right kidney,1401000087103,SNOMED
+37109075,Ultrasonography guided needle biopsy of right kidney,16451571000119101,SNOMED
+37109085,CT guided needle biopsy of left kidney,16549791000119102,SNOMED
+37109086,CT guided needle biopsy of right kidney,16549841000119104,SNOMED
+37109143,Fluoroscopy guided biopsy of bilateral kidneys,19531000087109,SNOMED
+37109469,Fluoroscopy guided biopsy of right kidney,6461000087108,SNOMED
+37117103,Ultrasonography guided needle biopsy of left kidney,16451621000119103,SNOMED
+37118289,Fluoroscopy guided biopsy of left kidney,6451000087105,SNOMED
+37521740,Renal cyst excision,10038425,MedDRA
+37521741,Renal lesion excision,10038477,MedDRA
+37521746,Renal tumour excision,10038542,MedDRA
+37587445,Excision of kidney cyst,10015617,MedDRA
+37587448,Excision of kidney lesion,10015618,MedDRA
+37587463,Excision of kidney tumor,10015619,MedDRA
+40298953,Renal biopsy - needle,142347007,SNOMED
+40299489,Kidney: surgical biopsy,142440008,SNOMED
+40315150,Kidney - local excision,149580000,SNOMED
+40355109,Percut. needle biopsy - kidney,268406008,SNOMED
+40492390,Biopsy of kidney using fluoroscopic guidance,447393003,SNOMED
+40598760,Excision of cyst of kidney,48643009,SNOMED
+42535239,Ultrasonography guided biopsy of bilateral kidneys,1641000087102,SNOMED
+42535262,Ultrasonography guided percutaneous needle biopsy of left kidney,16460061000119103,SNOMED
+42535263,Ultrasonography guided percutaneous needle biopsy of right kidney,16460111000119102,SNOMED
+42535337,CT guided biopsy of bilateral kidneys,1811000087104,SNOMED
+42535570,Ultrasonography guided percutaneous renal needle biopsy,408071000119106,SNOMED
+42537291,Local excision of lesion of kidney,736617005,SNOMED
+42627895,"Endoluminal biopsy of ureter and/or renal pelvis, non-endoscopic, including imaging guidance (eg, ultrasound and/or fluoroscopy) and all associated radiological supervision and interpretation (List separately in addition to code for primary procedure)",50606,CPT4
+42737112,"Renal endoscopy through established nephrostomy or pyelostomy, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with insertion of radioactive substance with or without biopsy and/or fulguration",50559,CPT4
+42737119,"Renal endoscopy through nephrotomy or pyelotomy, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service; with insertion of radioactive substance, with or without biopsy and/or fulguration",50578,CPT4
+43562273,Excision of kidney tumour,10073882,MedDRA
+43562510,Renal tumor excision,10074119,MedDRA
+44511723,Nephrectomy and excision of perirenal tissue,M02.1,OPCS4
+44511726,Excision of half of horseshoe kidney,M02.4,OPCS4
+44511734,Other specified partial excision of kidney,M03.8,OPCS4
+44511735,Unspecified partial excision of kidney,M03.9,OPCS4
+44511737,Open excision of lesion of kidney NEC,M04.2,OPCS4
+44511754,Open biopsy of lesion of kidney,M08.1,OPCS4
+44511773,Diagnostic endoscopic examination of kidney and biopsy of lesion of kidney NEC,M11.1,OPCS4
+44511774,Diagnostic endoscopic retrograde examination of kidney and biopsy of lesion of kidney,M11.2,OPCS4
+44511781,Percutaneous needle biopsy of lesion of kidney,M13.1,OPCS4
+45422531,Endoscopy and biopsy of renal lesion,7B09000,Read
+45425781,Open excision of renal lesion,7B03100,Read
+45432400,Partial excision of kidney,7B02.11,Read
+45432401,Percutaneous biopsy of kidney,7B0A011,Read
+45435775,Diagnostic endoscopic examination of kidney and biopsy of lesion of kidney NEC,7B09200,Read
+45439049,Diagnostic endoscopic retrograde examination of kidney and biopsy of lesion of kidney,7B09300,Read
+45455665,Percutaneous needle biopsy of renal lesion,7B0A000,Read
+45465816,Excision of half of horseshoe kidney,7B01311,Read
+45482543,Open renal biopsy,7B06000,Read
+45512411,Nephrectomy and excision of perirenal tissue,7B01011,Read
+45530507,BIOPSY KIDNEY,K5602,OXMIS
+45760265,Renal biopsy procedure kit,465904000,SNOMED
+45887693,Renal biopsy,1008085,CPT4
+45888513,Excision Procedures on the Kidney,1008084,CPT4
+45911754,Renal biopsy,161168,CIEL
+45922191,Renal graft biopsy,161169,CIEL
+46232797,Partial excision of kidney,M03,OPCS4
+46270728,Imaging guided percutaneous fine needle aspiration biopsy of kidney,708688004,SNOMED
