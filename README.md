@@ -12,7 +12,7 @@ This repository contains code and data used to create the cohort of children wit
 ## Outcomes
 
 #### Blood Pressure Z-Score (Systolic/Diastolic Hypertension)
-- Blood pressure z-score was derived using a [custom function](codes/cohort_bp_fun.r) which references the NHBPEP task force fourth report norms.
+- Blood pressure z-score was derived using a [custom function](codes/cohort_bp_fun.R) which references the NHBPEP task force fourth report norms.
 - Systolic hypertension was defined as SBP ≥ 95th percentile for children under 13 years of age or SBP ≥ 130 for patients 13 years of age or older. 
 - Diastolic hypertension was defined as DBP ≥ 95th percentile for children under 13 years of age or DBP ≥ 80 for patients 13 years of age or older.
 
