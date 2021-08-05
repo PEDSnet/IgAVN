@@ -1,0 +1,7 @@
+concept_id,concept_code,concept_name,vocabulary_id
+44777783,361,Nephrology,HES Specialty
+38003955,2080P0210X,"Allopathic & Osteopathic Physicians, Pediatrics, Pediatric Nephrology",NUCC
+38004479,39,Nephrology,Medicare Specialty
+44777772,259,Paediatric Nephrology,HES Specialty
+45756813,OMOP4822026,Pediatric Nephrology,ABMS
+38003880,207RN0300X,"Allopathic & Osteopathic Physicians, Internal Medicine, Nephrology",NUCC
