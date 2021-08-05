@@ -52,11 +52,11 @@ Several codesets were used to define medication treatement groups for the cohort
 - Urine protein to creatinine ratio (UPCR) was reported as a ratio where available in the source data or otherwise calculated using a urine protein and urine creatinine value from the same date. We further categorized UPCR into three categories: <0.5, 0.5-2.0 and >2.0.
 - A [custom function](codes/cohort_upcr.R) was developed to process UPCR, urine protein and urine creatinine measures to derive UPCR results for the cohort. This approach takes into consideration the following codesets:
    - Codeset of [point-of-care urine protein testing](codesets/proteinuria_urinalysis_codeset.csv) (qualitative / semi-quantitative)
-   - Codeset of [quantitative urine protein measurements](codesets/urine_protein_codeset.csv)
-   - Codeset of [quantitative urine creatinine measurements](codesets/urine_creatinine_codeset.csv)
+   - Codeset of [quantitative urine protein measurements](codesets/urine_protein.csv)
+   - Codeset of [quantitative urine creatinine measurements](codesets/urine_creatinine.csv)
    - Codeset of [directly reported UPCRs](codesets/urine_prot_creat_ratio.csv)
-   - Codeset of [known mismappings](codesets/prot_mismap_file.csv) associated with urine protein measurements
-   - Codeset of [known mismappings](codesets/creat_mismap_file.csv) associated with urine creatinine measurements    
+   - Codeset of [known mismappings](codesets/prot_cpt_loinc_mismaps.csv) associated with urine protein measurements
+   - Codeset of [known mismappings](codesets/creat_cpt_loinc_mismaps.csv) associated with urine creatinine measurements    
  
 #### Hematuria
 -  Urine Blood labs were defined using a series of [LOINC Codes](codesets/urine_blood_codeset.csv)
@@ -75,7 +75,7 @@ Several codesets were used to define medication treatement groups for the cohort
     - [Procedure code](codesets/kidney_biopsy_proc.csv) for kidney biopsy
    - [Procedure code](codesets/biopsy_proc.csv) associated with biopsy (renal not specified), accompanied by source value string search for kidney/renal/kidney biopsy ICD code or kidney finding condition code on same date
    - [Condition code](codesets/kidney_biopsy_cond.csv) for kidney biopsy
-   - [Condition code](codesets/kidney_result_cond.csv) for biopsy result (renal not specified), accompanied by kidney finding condition code on same date
+   - [Condition code](codesets/biopsy_result_cond.csv) for biopsy result (renal not specified), accompanied by kidney finding condition code on same date
    - String search for kidney/renal biopsy in visit source value.
 #### Dialysis
 - Dialysis was defined using a list of [CPT4, ICD9Proc, and HCPCS procedure codes](codesets/dialysis_broad.csv) which were designated by the study team as either chronic or not chronic. 
