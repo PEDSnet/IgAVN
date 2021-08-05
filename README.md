@@ -45,14 +45,14 @@ Several codesets were used to define medication treatement groups for the cohort
 - Advanced CKD was defined as an eGFR less than 60 mL/min/1.73 m2 on two separate occasions at least three months apart, with no eGFR value above 90 mL/min/1.73 m2 between or after these values, except in the event that a patient received a kidney transplant.
 
 #### Proteinuria
-- Urine Protein was defined using a series of [LOINC Codes](codesets/urine_protein_codeset.csv)
+- Urine Protein was defined using a series of [LOINC Codes](codesets/urine_protein.csv)
 - Proteinuria was defined as having ≥2+ on urinalysis.
 - A [custom function](codes/cohort_proteinuria.R) was developed to annotate urine protein results and determine proteinuria for the cohort.
 #### UPCR
 - Urine protein to creatinine ratio (UPCR) was reported as a ratio where available in the source data or otherwise calculated using a urine protein and urine creatinine value from the same date. We further categorized UPCR into three categories: <0.5, 0.5-2.0 and >2.0.
 - A [custom function](codes/cohort_upcr.R) was developed to process UPCR, urine protein and urine creatinine measures to derive UPCR results for the cohort. This approach takes into consideration the following codesets:
    - Codeset of [point-of-care urine protein testing](codesets/proteinuria_urinalysis_codeset.csv) (qualitative / semi-quantitative)
-   - Codeset of [quantitative urine protein measurements](codesets/urine_protein.csv)
+   - Codeset of [quantitative urine protein measurements](codesets/urine_protein_quant.csv)
    - Codeset of [quantitative urine creatinine measurements](codesets/urine_creatinine.csv)
    - Codeset of [directly reported UPCRs](codesets/urine_prot_creat_ratio.csv)
    - Codeset of [known mismappings](codesets/prot_cpt_loinc_mismaps.csv) associated with urine protein measurements
