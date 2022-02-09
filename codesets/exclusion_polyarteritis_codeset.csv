@@ -1,0 +1,10 @@
+concept_id,concept_name,concept_code,vocabulary_id
+320749,Polyarteritis nodosa,155441006,SNOMED
+4240837,Benign cutaneous periarteritis nodosa,58144006,SNOMED
+4343931,Polyarteritis nodosa with single organ involvement,239925001,SNOMED
+4343932,Polyarteritis nodosa with multi-organ involvement,239927009,SNOMED
+4344168,Microscopic polyarteritis nodosa with multi-organ involvement,239930002,SNOMED
+4344489,Microscopic polyarteritis nodosa,239928004,SNOMED
+4344490,Microscopic polyarteritis nodosa with single organ involvement,239929007,SNOMED
+4347062,Cutaneous polyarteritis nodosa,239926000,SNOMED
+37110293,Respiratory disorder co-occurrent and due to microscopic polyangiitis,724502006,SNOMED

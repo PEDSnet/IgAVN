@@ -1,0 +1,10 @@
+concept_id,concept_name,concept_code,vocabulary_id
+4013932,Primary cryoglobulinemia,11352009,SNOMED
+4103069,Secondary cryoglobulinemia,28807005,SNOMED
+4149583,Cryoglobulinemia,30911005,SNOMED
+4196246,Mixed polyclonal cryoimmunoglobulinemia,44371002,SNOMED
+4238201,Mixed cryoimmunoglobulinemia with monoclonal component,57390009,SNOMED
+4297386,Monoclonal cryoimmunoglobulinemia,38675009,SNOMED
+4347067,Essential mixed cryoglobulinemia,239947001,SNOMED
+37109813,Simple cryoglobulinemia,723674005,SNOMED
+45757396,Cryoglobulinemia due to chronic hepatitis C,128971000119101,SNOMED

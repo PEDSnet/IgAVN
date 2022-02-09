@@ -1,0 +1,15 @@
+concept_id,concept_name,concept_code,vocabulary_id
+313223,Granulomatosis with polyangiitis,195353004,SNOMED
+4045753,Granulomatous angiitis of central nervous system,230734005,SNOMED
+4048178,Granulomatosis with polyangiitis of nose,232369001,SNOMED
+4048502,Granulomatosis with polyangiitis of larynx,232460001,SNOMED
+4122119,Granulomatosis with polyangiitis of gingiva,235000001,SNOMED
+4143003,Glomerulonephritis due to granulomatosis with polyangiitis,427555000,SNOMED
+4305666,Eosinophilic granulomatosis with polyangiitis,82275008,SNOMED
+4344168,Microscopic polyarteritis nodosa with multi-organ involvement,239930002,SNOMED
+4344489,Microscopic polyarteritis nodosa,239928004,SNOMED
+4344490,Microscopic polyarteritis nodosa with single organ involvement,239929007,SNOMED
+4344492,Limited granulomatosis with polyangiitis,239935007,SNOMED
+4344493,Granulomatosis with polyangiitis with multisystem involvement,239936008,SNOMED
+37110293,Respiratory disorder co-occurrent and due to microscopic polyangiitis,724502006,SNOMED
+42535714,Antineutrophil cytoplasmic antibody positive vasculitis,722191003,SNOMED

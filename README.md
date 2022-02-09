@@ -4,7 +4,18 @@ This repository contains code and data used to create the cohort of children wit
 ## Cohort Development
 
 #### IgAVN Diagnosis
-- [SNOMED-CT codes](codesets/hsp_codeset.csv) were used to identify all patients with a diagnosis of IgAV/HSP on or after January 1, 2009. Patients diagnosed with another form of vasculitis were excluded. In order to focus on outcomes related to a patient’s IgAV and not attributable to other chronic medical conditions, we excluded patients with evidence of non-renal chronic disease. To identify complex chronic disease, we applied the taxonomy from the Pediatric Medical Complexity Algorithm which was developed and validated to identify chronic and complex medical conditions and aggregate related diagnoses according to body system: 
+- SNOMED-CT codes for [HSP](codesets/hsp_codeset.csv) were used to identify all patients with a diagnosis of IgAV/HSP on or after January 1, 2009. 
+- Patients diagnosed with another form of vasculitis were excluded based on occurrence of at least one SNOMED-CT diagnosis code contained in the following codesets:
+    - [ANCA vasculitis](codesets/exclusion_anca_vasculitis_codeset.csv)
+    - [Cryoglobulinemia](codesets/exclusion_cryoglobulinemia_codeset.csv)
+    - [Granulomatosis](codesets/exclusion_granulomatosis_codeset.csv)
+    - [IGA nephropathy](codesets/exclusion_iga_nephropathy_codeset.csv)
+    - [Lupus nephritis](codesets/exclusion_lupus_nephritis_codeset.csv)
+    - [Mixed connective tissue disease](codesets/exclusion_mctd_codeset.csv)
+    - [Microscopic polyangiitis](codesets/exclusion_micro_polyangiitis_codeset.csv)
+    - [Polyarteritis](codesets/exclusion_polyarteritis_codeset.csv)
+    - [Systemic lupus erythematosus](codesets/exclusion_systemic_lupus_codeset.csv)
+- In order to focus on outcomes related to a patient’s IgAV and not attributable to other chronic medical conditions, we excluded patients with evidence of non-renal chronic disease. To identify complex chronic disease, we applied the taxonomy from the Pediatric Medical Complexity Algorithm which was developed and validated to identify chronic and complex medical conditions and aggregate related diagnoses according to body system: 
     - We used the [PMCA ICD codeset](codesets/pmca_icd.csv) to flag progressive (progressive = yes) or malignant (body_system = malignant) diagnoses and identified the impacted body system using the body_system indicator in the codeset. We then excluded from the cohort any patients with at least one such malignant or progressive condition diagnosis impacting a non-renal (body system not equal to renal) body system
 
 #### Nephrology Contact

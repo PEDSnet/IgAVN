@@ -1,0 +1,5 @@
+concept_id,concept_name,concept_code,vocabulary_id
+4128061,"""Immunoglobulin A nephropathy (disorder)""",236407003,SNOMED
+4287695,"""Primary immunoglobulin A nephropathy (disorder)""",68779003,SNOMED
+40483372,"""Familial immunoglobulin A nephropathy (disorder)""",445404003,SNOMED
+3253658,"""Immunoglobulin A nephropathy associated with liver disease (disorder)""",282364005,SNOMED
